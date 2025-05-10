@@ -79,3 +79,35 @@ The following key activities are essential in the **Requirement Analysis** phase
   * Involves reviewing the documented requirements with stakeholders to confirm their correctness and relevance.
   * Ensures that the requirements are realistic, achievable, and align with user needs and business goals.
 
+---
+
+Here’s the updated version with icons included for the **Types of Requirements** section:
+
+---
+
+### **Types of Requirements**
+
+#### **Functional Requirements** ✅
+
+These define the specific actions the system must perform.
+
+**Examples for the Booking Management Project:**
+
+* **User Authentication:** Users can create accounts and log in.
+* **Booking Creation:** Users can search for rooms and create bookings.
+* **Booking Cancellation:** Users can cancel bookings before a set time.
+* **Payment Processing:** The system must process payments securely.
+* **Email Notifications:** Confirmation emails are sent for bookings and cancellations.
+
+#### **Non-Functional Requirements** ⚙️
+
+These define the system's quality, performance, and overall standards.
+
+**Examples for the Booking Management Project:**
+
+* **Performance:** The system should handle 5000 simultaneous users.
+* **Security:** Payment data must be encrypted using SSL/TLS.
+* **Usability:** The UI must be intuitive and easy to use.
+* **Availability:** The system should be available 99.9% of the time.
+* **Scalability:** The system should scale to accommodate more users and bookings.
+
