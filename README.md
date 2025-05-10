@@ -81,10 +81,6 @@ The following key activities are essential in the **Requirement Analysis** phase
 
 ---
 
-Here’s the updated version with icons included for the **Types of Requirements** section:
-
----
-
 ### **Types of Requirements**
 
 #### **Functional Requirements** ✅
