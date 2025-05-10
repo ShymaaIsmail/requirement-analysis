@@ -123,6 +123,7 @@ Use Case Diagrams visualize system functionality from the user's perspective, sh
 
 **Use Case Diagram for the Booking System:**
 Below is the Use Case Diagram for the booking system, illustrating key actors (User, Admin) and their use cases (e.g., creating and managing bookings).
+![Booking System Use Case Diagram](alx-booking-uc.png)
 
 
 ---
