@@ -107,3 +107,40 @@ These define the system's quality, performance, and overall standards.
 * **Availability:** The system should be available 99.9% of the time.
 * **Scalability:** The system should scale to accommodate more users and bookings.
 
+---
+
+### **Use Case Diagrams** 📊
+
+**What are Use Case Diagrams?**
+Use Case Diagrams visualize system functionality from the user's perspective, showing interactions between actors (users) and the system. They are essential for understanding system requirements.
+
+**Benefits:**
+
+* Clarify system requirements.
+* Identify actors and use cases.
+* Enhance communication among stakeholders.
+* Support system design.
+
+**Use Case Diagram for the Booking System:**
+Below is the Use Case Diagram for the booking system, illustrating key actors (User, Admin) and their use cases (e.g., creating and managing bookings).
+
+
+---
+
+Here’s the shortened version for the **Acceptance Criteria** section:
+
+---
+
+### **Acceptance Criteria** ✅
+
+**Importance in Requirement Analysis:**
+Acceptance Criteria define the conditions a feature must meet to be considered complete. They ensure the system meets business needs, provide testing guidelines, and align development with user expectations.
+
+**Example for Checkout Feature (Booking Management System):**
+
+1. **User Login:** User must be logged in to access checkout.
+2. **Booking Summary:** Display room type, dates, and total cost.
+3. **Payment Methods:** Offer credit card or PayPal options.
+4. **Payment Validation:** Validate payment info and show error if it fails.
+5. **Confirmation:** Show booking confirmation and send email upon successful payment.
+
