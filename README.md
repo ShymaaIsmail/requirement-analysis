@@ -50,7 +50,7 @@ Effective requirement analysis is key to delivering projects on time, within bud
 
 ---
 
-### **Key Activities in Requirement Analysis**
+### 👥 **Key Activities in Requirement Analysis**
 
 The following key activities are essential in the **Requirement Analysis** phase to ensure a clear and structured foundation for the project:
 
