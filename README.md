@@ -47,3 +47,35 @@ The **Requirement Analysis** section defines and structures the system's needs t
    Provides a reference point for handling changes and updates to requirements throughout the project.
 
 Effective requirement analysis is key to delivering projects on time, within budget, and aligned with business goals.
+
+---
+
+### **Key Activities in Requirement Analysis**
+
+The following key activities are essential in the **Requirement Analysis** phase to ensure a clear and structured foundation for the project:
+
+* **Requirement Gathering:**
+
+  * Involves collecting initial information from stakeholders, including users, business owners, and system architects.
+  * Focuses on identifying the goals, needs, and expectations of the system.
+
+* **Requirement Elicitation:**
+
+  * Engages stakeholders through interviews, surveys, workshops, and observations.
+  * Aims to uncover detailed and hidden requirements, ensuring a comprehensive understanding of the system needs.
+
+* **Requirement Documentation:**
+
+  * Organizes and records gathered requirements in a structured format, often using markdown or word processing tools.
+  * Ensures clarity and traceability of requirements for future phases of development.
+
+* **Requirement Analysis and Modeling:**
+
+  * Analyzes requirements for consistency, feasibility, and alignment with business objectives.
+  * Uses diagrams like flowcharts, use case diagrams, and entity-relationship (ER) diagrams to model system behavior.
+
+* **Requirement Validation:**
+
+  * Involves reviewing the documented requirements with stakeholders to confirm their correctness and relevance.
+  * Ensures that the requirements are realistic, achievable, and align with user needs and business goals.
+
