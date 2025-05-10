@@ -127,10 +127,6 @@ Below is the Use Case Diagram for the booking system, illustrating key actors (U
 
 ---
 
-Here’s the shortened version for the **Acceptance Criteria** section:
-
----
-
 ### **Acceptance Criteria** ✅
 
 **Importance in Requirement Analysis:**
