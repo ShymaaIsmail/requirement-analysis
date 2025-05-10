@@ -24,7 +24,9 @@ The **Requirement Analysis** section defines and structures the system's needs t
 6. **Use Cases**: Scenarios outlining user interactions with the system.
 7. **Diagrams**: Visuals like flowcharts and UML to represent system architecture.
 
-### **Importance of Requirement Analysis in SDLC:**
+---
+
+### ✅ **Why is Requirement Analysis Important?**
 
 1. **Foundation for Development:**
    Requirement analysis provides a clear foundation for design, development, testing, and deployment, reducing rework and project delays.
